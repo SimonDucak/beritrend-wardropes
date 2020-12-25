@@ -2,17 +2,17 @@
 <html lang="en">
   <head>
     @@include("partials/head.html", {
-    "pageTitle": "Goodkit"
+    "pageTitle": "Beritrend - Kontakt"
     })
   </head>
-  <body>
+  <body style="padding-top: 108px;">
 
     <!-- MODALS -->
     @@include("partials/modals.html")
 
     <!-- NAVBAR -->
     @@include("partials/navbar.html", {
-    "classList": "navbar-light"
+    "classList": "navbar-light navbar-reveal fixed-top bg-white"
     })
 
     <!-- CONTENT -->
@@ -23,7 +23,7 @@
 
             <!-- Preheading -->
             <h6 class="text-uppercase text-primary mb-5">
-              Contact us
+              Kontaktujte nás
             </h6>
 
             <!-- Heading -->
@@ -50,12 +50,12 @@
 
                   <!-- Heading -->
                   <h6 class="text-uppercase mb-0">
-                    Live chat
+                    Facebook
                   </h6>
 
                   <!-- Text -->
                   <small class="text-muted">
-                    Wait time of ~10 minutes
+                    Wait time of ~3 hours
                   </small>
 
                 </a>
@@ -105,59 +105,55 @@
                   </small>
 
                 </a>
-
               </div>
             </div>
 
-            <!-- Form -->
-            <form>
-              <div class="row">
-                <div class="col-md-6">
-
-                  <!-- Name -->
-                  <div class="form-group">
-                    <label class="sr-only" for="contactName">
-                      Your name
-                    </label>
-                    <input class="form-control" id="contactName" type="text" placeholder="Your name">
-                  </div>
-
+            <!-- Contact info -->
+            <ul class="list-group list-group-lg">
+              <li class="list-group-item">
+                <div class="col-12 justify-content-between d-flex align-items-center flex-wrap">
+                  <strong>Email</strong>
+                  <span>beritrend@beritrend.sk</span>
                 </div>
-                <div class="col-md-6">
-
-                  <!-- Email -->
-                  <div class="form-group">
-                    <label class="sr-only" for="contactEmail">
-                      Your email
-                    </label>
-                    <input class="form-control" id="contactEmail" type="email" placeholder="Your email">
-                  </div>
-
+              </li>
+              <li class="list-group-item">
+                <div class="col-12 justify-content-between d-flex align-items-center flex-wrap">
+                  <strong>Tel. číslo</strong>
+                  <span>0908 400 899</span>
                 </div>
-                <div class="col-12">
-
-                  <!-- Message -->
-                  <div class="form-group">
-                    <label class="sr-only" for="contactMessage">
-                      Your message
-                    </label>
-                    <textarea class="form-control" id="contactMessage" placeholder="Your message" rows="7"></textarea>
-                  </div>
-
+              </li>
+              <li class="list-group-item">
+                <div class="col-12 justify-content-between d-flex align-items-center flex-wrap">
+                  <strong>Adresa</strong>
+                  <span>Vrbov 92, 059 72</span>
                 </div>
-              </div>
-              <button class="btn btn-block btn-primary">
-                Send a Message
-              </button>
-            </form>
-
+              </li>
+              <li class="list-group-item">
+                <div class="col-12 justify-content-between d-flex align-items-center flex-wrap">
+                  <strong>IČO</strong>
+                  <span>14 280 825</span>
+                </div>
+              </li>
+              <li class="list-group-item">
+                <div class="col-12 justify-content-between d-flex align-items-center flex-wrap">
+                  <strong>DIČ</strong>
+                  <span>1023183436</span>
+                </div>
+              </li>
+              <li class="list-group-item">
+                <div class="col-12 justify-content-between d-flex align-items-center flex-wrap">
+                  <strong>Číslo účtu</strong>
+                  <span>1138 0215 38 / 8410</span>
+                </div>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
     </section>
 
     <!-- FOOTER -->
-    @@include("partials/footer.html", {
+    @@include("partials/footer-3.html", {
     "classList": "bg-dark border-multicolor"
     })
 
