@@ -104,7 +104,7 @@ $spacers: map-merge(
     10: ($spacer * 5), // 80px
     11: ($spacer * 6), // 96px
     12: ($spacer * 8), // 128px
-    13: ($spacer * 10), // 160px 
+    13: ($spacer * 10), // 160px
     14: ($spacer * 12), // 192px
     15: ($spacer * 14), // 224px
     16: ($spacer * 16), // 256px
@@ -193,7 +193,7 @@ $border-sizing: map-merge(
     "5": 5,
     "6": 6,
     "7": 7
-  ), 
+  ),
   $border-sizing
 );
 /* beautify ignore:end */
@@ -236,7 +236,7 @@ $h1-line-height: 1.32 !default;
 $h3-line-height: 1.4 !default;
 $h4-line-height: 1.6 !default;
 
-$headings-font-family: $font-family-serif !default;
+$headings-font-family: $font-family-sans-serif !default;
 $headings-font-weight: $font-weight-bold !default;
 
 $display1-size: 5.125rem !default; // 82px
