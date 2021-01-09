@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dbbff69-9f40-4cd9-8fd7-172ad530389f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/skrine/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/skrine/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/skrine/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/skrine/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/skrine/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/skrine/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/skrine/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/skrine/25.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/portfolio.html" afterDir="false" />
-    </list>
+    <list default="true" id="2dbbff69-9f40-4cd9-8fd7-172ad530389f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,20 +32,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="244" lean-forward="true" selection-start-line="244" selection-end-line="244" />
+            <state relative-caret-position="77">
+              <caret line="237" column="25" lean-forward="true" selection-start-line="237" selection-start-column="25" selection-end-line="237" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="266" column="35" lean-forward="true" selection-start-line="266" selection-start-column="35" selection-end-line="266" selection-end-column="35" />
+            <state relative-caret-position="471">
+              <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+              <folding>
+                <element signature="e#1726#1753#0" expanded="true" />
+                <element signature="e#5004#5069#0" expanded="true" />
+                <element signature="e#5889#5940#0" expanded="true" />
+                <element signature="e#5884#6529#0" />
+                <element signature="e#5886#5937#0" expanded="true" />
+                <element signature="e#6550#6601#0" expanded="true" />
+                <element signature="e#7903#7954#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,37 +75,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/theme/utilities/_sizing.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scss/theme/utilities/_type.scss">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/_user-variables.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/_user.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/theme.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/theme/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -189,7 +140,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>src=</find>
       <find>Naši</find>
       <find>.displa</find>
       <find>$font-family-sans-serif</find>
@@ -210,7 +160,6 @@
       <find>Lorem</find>
       <find>$black</find>
       <find>$black:</find>
-      <find>kliknite</find>
       <find>...</find>
       <find>pattern</find>
       <find>.navbar:</find>
@@ -219,6 +168,8 @@
       <find>classList</find>
       <find>Neo</find>
       <find>Neobmedzené</find>
+      <find>Vykr</find>
+      <find>kliknite</find>
     </findStrings>
     <replaceStrings>
       <replace>assets/img/skrine/1.jpg</replace>
@@ -247,8 +198,8 @@
         <option value="$PROJECT_DIR$/src/scss/theme/mixins/_border.scss" />
         <option value="$PROJECT_DIR$/src/html/o-nas.html" />
         <option value="$PROJECT_DIR$/src/html/kontakt.html" />
-        <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/src/html/portfolio.html" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
       </list>
     </option>
   </component>
@@ -288,14 +239,6 @@
               <item name="dist" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="skrine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
@@ -433,18 +376,18 @@
       <workItem from="1608897499362" duration="10284000" />
       <workItem from="1609932311907" duration="7339000" />
       <workItem from="1610190514781" duration="2336000" />
-      <workItem from="1610202389789" duration="1368000" />
+      <workItem from="1610202389789" duration="1677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27324000" />
+    <option name="totallyTimeSpent" value="27633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-4" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.18453333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.152" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Web" order="2" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Image Layers" order="3" />
@@ -474,7 +417,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24946696" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Debug" order="9" weight="0.547651" />
-      <window_info anchor="right" id="Run" order="10" weight="0.288" />
+      <window_info anchor="right" id="Run" order="10" visible="true" weight="0.288" />
       <window_info anchor="right" id="Maven" order="11" weight="0.32746667" />
       <window_info anchor="right" id="SciView" order="12" weight="0.3296" />
     </layout>
@@ -691,17 +634,26 @@
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/15.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
+    <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="266" column="35" lean-forward="true" selection-start-line="266" selection-start-column="35" selection-end-line="266" selection-end-column="35" />
+        <state relative-caret-position="77">
+          <caret line="237" column="25" lean-forward="true" selection-start-line="237" selection-start-column="25" selection-end-line="237" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="244" lean-forward="true" selection-start-line="244" selection-end-line="244" />
+        <state relative-caret-position="471">
+          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+          <folding>
+            <element signature="e#1726#1753#0" expanded="true" />
+            <element signature="e#5004#5069#0" expanded="true" />
+            <element signature="e#5889#5940#0" expanded="true" />
+            <element signature="e#5884#6529#0" />
+            <element signature="e#5886#5937#0" expanded="true" />
+            <element signature="e#6550#6601#0" expanded="true" />
+            <element signature="e#7903#7954#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
