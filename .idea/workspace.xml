@@ -41,17 +41,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+            <state relative-caret-position="210">
+              <caret line="194" column="65" lean-forward="true" selection-start-line="194" selection-start-column="65" selection-end-line="194" selection-end-column="65" />
               <folding>
                 <element signature="e#1726#1753#0" expanded="true" />
                 <element signature="e#5004#5069#0" expanded="true" />
                 <element signature="e#5889#5940#0" expanded="true" />
                 <element signature="e#5884#6529#0" />
                 <element signature="e#5886#5937#0" expanded="true" />
+                <element signature="e#6738#6776#0" expanded="true" />
                 <element signature="e#6550#6601#0" expanded="true" />
                 <element signature="e#7903#7954#0" expanded="true" />
               </folding>
@@ -136,6 +137,16 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/assets/img/screenshots/desktop/white_wardrope.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/assets/img/screenshots/desktop/white_wardrope_2.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -203,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1933" />
     <option name="y" value="165" />
     <option name="width" value="1152" />
@@ -239,6 +250,31 @@
               <item name="dist" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="desktop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="skrine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
@@ -376,16 +412,15 @@
       <workItem from="1608897499362" duration="10284000" />
       <workItem from="1609932311907" duration="7339000" />
       <workItem from="1610190514781" duration="2336000" />
-      <workItem from="1610202389789" duration="1677000" />
+      <workItem from="1610202389789" duration="2085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27633000" />
+    <option name="totallyTimeSpent" value="28041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-4" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.152" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
@@ -417,7 +452,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24946696" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Debug" order="9" weight="0.547651" />
-      <window_info anchor="right" id="Run" order="10" visible="true" weight="0.288" />
+      <window_info anchor="right" id="Run" order="10" weight="0.288" />
       <window_info anchor="right" id="Maven" order="11" weight="0.32746667" />
       <window_info anchor="right" id="SciView" order="12" weight="0.3296" />
     </layout>
@@ -426,12 +461,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/html/partials/decorations/decoration-1.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/screenshots/desktop/white_wardrope.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
@@ -643,19 +672,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+        <state relative-caret-position="210">
+          <caret line="194" column="65" lean-forward="true" selection-start-line="194" selection-start-column="65" selection-end-line="194" selection-end-column="65" />
           <folding>
             <element signature="e#1726#1753#0" expanded="true" />
             <element signature="e#5004#5069#0" expanded="true" />
             <element signature="e#5889#5940#0" expanded="true" />
             <element signature="e#5884#6529#0" />
             <element signature="e#5886#5937#0" expanded="true" />
+            <element signature="e#6738#6776#0" expanded="true" />
             <element signature="e#6550#6601#0" expanded="true" />
             <element signature="e#7903#7954#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/screenshots/desktop/white_wardrope.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/screenshots/desktop/white_wardrope_2.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
