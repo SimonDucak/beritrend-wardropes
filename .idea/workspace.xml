@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2dbbff69-9f40-4cd9-8fd7-172ad530389f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/o-nas.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/o-nas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/theme/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/theme/_variables.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="126" column="16" lean-forward="true" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+            <state relative-caret-position="107">
+              <caret line="308" column="40" selection-start-line="308" selection-start-column="40" selection-end-line="308" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -170,7 +168,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scss/theme/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -245,8 +243,8 @@
         <option value="$PROJECT_DIR$/src/html/index.html" />
         <option value="$PROJECT_DIR$/src/html/kontakt.html" />
         <option value="$PROJECT_DIR$/src/html/o-nas.html" />
-        <option value="$PROJECT_DIR$/src/html/portfolio.html" />
         <option value="$PROJECT_DIR$/src/scss/theme/_variables.scss" />
+        <option value="$PROJECT_DIR$/src/html/portfolio.html" />
       </list>
     </option>
   </component>
@@ -432,18 +430,18 @@
       <workItem from="1609932311907" duration="7339000" />
       <workItem from="1610190514781" duration="2336000" />
       <workItem from="1610202389789" duration="2685000" />
-      <workItem from="1610282386272" duration="9719000" />
+      <workItem from="1610282386272" duration="10462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38360000" />
+    <option name="totallyTimeSpent" value="39103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.19731544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.19731544" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Web" order="2" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Image Layers" order="3" />
@@ -605,15 +603,6 @@
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/13.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/14.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/15.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/26.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/22.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -621,9 +610,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/25.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/16.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/17.jpg">
@@ -687,17 +673,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="126" column="16" lean-forward="true" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/theme/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="238" column="41" selection-start-line="238" selection-start-column="41" selection-end-line="238" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/15.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/16.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/14.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/26.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="308" column="40" selection-start-line="308" selection-start-column="40" selection-end-line="308" selection-end-column="40" />
         </state>
       </provider>
     </entry>
