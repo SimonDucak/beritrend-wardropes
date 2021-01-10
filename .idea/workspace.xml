@@ -38,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="312" column="96" selection-start-line="312" selection-start-column="96" selection-end-line="312" selection-end-column="96" />
+            <state relative-caret-position="96">
+              <caret line="208" column="63" selection-start-line="208" selection-start-column="63" selection-end-line="208" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -143,7 +143,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>assets/img/screenshots/desktop/white_wardrope.jpg</find>
       <find>Lorem</find>
       <find>$black</find>
       <find>$black:</find>
@@ -173,6 +172,7 @@
       <find>25</find>
       <find>18</find>
       <find>13</find>
+      <find>26.jp</find>
     </findStrings>
     <replaceStrings>
       <replace>assets/img/skrine/1.jpg</replace>
@@ -349,7 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.gulp">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -372,8 +372,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.gulp" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.gulp" />
       </list>
     </recent_temporary>
   </component>
@@ -392,18 +392,18 @@
       <workItem from="1609932311907" duration="7339000" />
       <workItem from="1610190514781" duration="2336000" />
       <workItem from="1610202389789" duration="2685000" />
-      <workItem from="1610282386272" duration="8124000" />
+      <workItem from="1610282386272" duration="8330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36765000" />
+    <option name="totallyTimeSpent" value="36971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.19731544" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.19731544" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Web" order="2" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Image Layers" order="3" />
@@ -433,7 +433,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24946696" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Debug" order="9" weight="0.547651" />
-      <window_info anchor="right" id="Run" order="10" weight="0.28791946" />
+      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.28791946" />
       <window_info anchor="right" id="Maven" order="11" weight="0.32746667" />
       <window_info anchor="right" id="SciView" order="12" weight="0.3296" />
     </layout>
@@ -653,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="312" column="96" selection-start-line="312" selection-start-column="96" selection-end-line="312" selection-end-column="96" />
+        <state relative-caret-position="96">
+          <caret line="208" column="63" selection-start-line="208" selection-start-column="63" selection-end-line="208" selection-end-column="63" />
         </state>
       </provider>
     </entry>
