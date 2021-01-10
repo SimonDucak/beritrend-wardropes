@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbbff69-9f40-4cd9-8fd7-172ad530389f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/assets/img/screenshots/desktop/Chest-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/screenshots/desktop/rustikal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/skrine/26.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/img/skrine/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/img/skrine/11.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/theme/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/theme/_grid.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="241" column="18" lean-forward="true" selection-start-line="241" selection-start-column="18" selection-end-line="241" selection-end-column="18" />
+            <state relative-caret-position="167">
+              <caret line="212" column="97" selection-start-line="212" selection-start-column="97" selection-end-line="212" selection-end-column="97" />
             </state>
           </provider>
         </entry>
@@ -66,10 +70,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="760">
               <caret line="197" column="88" selection-start-line="197" selection-start-column="88" selection-end-line="197" selection-end-column="88" />
-              <folding>
-                <element signature="e#1726#1753#0" expanded="true" />
-                <element signature="e#5004#5069#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -79,17 +79,19 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+            <state relative-caret-position="440">
+              <caret line="138" column="47" selection-start-line="138" selection-start-column="47" selection-end-line="138" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
@@ -98,24 +100,38 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/9.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/10.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/assets/css/theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="12304" selection-start-line="12304" selection-end-line="12304" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/theme/_grid.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>$font-family-sans-serif</find>
-      <find>$font-family-serif</find>
-      <find>šufla</find>
-      <find>masívn</find>
-      <find>Nevie</find>
-      <find>smrekove</find>
-      <find>Nie je pro</find>
-      <find>Zamera</find>
-      <find>670</find>
-      <find>Will this</find>
-      <find>14</find>
-      <find>favicon</find>
-      <find>favicon.ico</find>
-      <find>Teš</find>
       <find>assets/img/screenshots/desktop/white_wardrope.jpg</find>
       <find>Lorem</find>
       <find>$black</find>
@@ -132,9 +148,27 @@
       <find>klikniti</find>
       <find>kliknite</find>
       <find>Ele</find>
+      <find>&amp;quot;</find>
+      <find>'</find>
+      <find>#card-gallery</find>
+      <find>gallery</find>
+      <find>founders</find>
+      <find>investors</find>
+      <find>5.jpg</find>
+      <find>7.j</find>
+      <find>4.jpg</find>
+      <find>21</find>
+      <find>16</find>
+      <find>25</find>
+      <find>18</find>
+      <find>13</find>
     </findStrings>
     <replaceStrings>
       <replace>assets/img/skrine/1.jpg</replace>
+      <replace>'</replace>
+      <replace>&amp;quot;</replace>
+      <replace>all</replace>
+      <replace>rustikal</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\nocreativity\beritrend_wardropes\dist\assets\fonts</dir>
@@ -153,15 +187,15 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/html/404.html" />
         <option value="$PROJECT_DIR$/src/html/partials/navbar.html" />
-        <option value="$PROJECT_DIR$/src/scss/theme/_grid.scss" />
         <option value="$PROJECT_DIR$/src/scss/theme/_variables.scss" />
         <option value="$PROJECT_DIR$/src/scss/theme/_navbar.scss" />
         <option value="$PROJECT_DIR$/src/scss/theme/mixins/_border.scss" />
         <option value="$PROJECT_DIR$/src/html/o-nas.html" />
         <option value="$PROJECT_DIR$/src/html/kontakt.html" />
-        <option value="$PROJECT_DIR$/src/html/portfolio.html" />
         <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/src/html/index.html" />
+        <option value="$PROJECT_DIR$/src/scss/theme/_grid.scss" />
+        <option value="$PROJECT_DIR$/src/html/portfolio.html" />
       </list>
     </option>
   </component>
@@ -209,16 +243,7 @@
               <item name="dist" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="skrine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
@@ -286,7 +311,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/assets/img/screenshots/desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/assets/img/skrine" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -294,8 +319,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\nocreativity\beritrend_wardropes\dist\assets\img\screenshots\desktop" />
       <recent name="C:\nocreativity\beritrend_wardropes\dist\assets\img\skrine" />
+      <recent name="C:\nocreativity\beritrend_wardropes\dist\assets\img\screenshots\desktop" />
       <recent name="C:\nocreativity\beritrend_wardropes\dist\assets\img\wardropes" />
       <recent name="C:\nocreativity\beritrend_wardropes\dist\assets\img" />
       <recent name="C:\nocreativity\beritrend_wardropes\src\html" />
@@ -313,7 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.gulp">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -336,8 +361,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.gulp" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -356,12 +381,12 @@
       <workItem from="1609932311907" duration="7339000" />
       <workItem from="1610190514781" duration="2336000" />
       <workItem from="1610202389789" duration="2685000" />
-      <workItem from="1610282386272" duration="1427000" />
+      <workItem from="1610282386272" duration="7014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30068000" />
+    <option name="totallyTimeSpent" value="35655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -406,9 +431,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/buttons/button-app.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/buttons/button-play.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -464,12 +486,6 @@
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/7.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/10.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/12.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -484,13 +500,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/17.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/theme/_grid.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1073">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/theme/utilities/_borders.scss">
       <provider selected="true" editor-type-id="text-editor" />
@@ -518,9 +527,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/11.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/2.jpg">
@@ -595,38 +601,59 @@
     <entry file="file://$PROJECT_DIR$/dist/assets/img/screenshots/desktop/brown_wardrope.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="241" column="18" lean-forward="true" selection-start-line="241" selection-start-column="18" selection-end-line="241" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="197" column="88" selection-start-line="197" selection-start-column="88" selection-end-line="197" selection-end-column="88" />
-          <folding>
-            <element signature="e#1726#1753#0" expanded="true" />
-            <element signature="e#5004#5069#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+        <state relative-caret-position="440">
+          <caret line="138" column="47" selection-start-line="138" selection-start-column="47" selection-end-line="138" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="12304" selection-start-line="12304" selection-end-line="12304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/theme/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="212" column="97" selection-start-line="212" selection-start-column="97" selection-end-line="212" selection-end-column="97" />
         </state>
       </provider>
     </entry>

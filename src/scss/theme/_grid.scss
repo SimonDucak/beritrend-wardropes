@@ -36,9 +36,10 @@
   }
 }
 
-#card-gallery {
-  .col-md-4 {
-    margin-bottom: 30px;
+.card-gallery {
+  .col-6 {
+    margin-bottom: 20px;
+    height: 400px;
   }
 
   .card, .card a, .card img {
