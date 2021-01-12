@@ -5,9 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/partials/footer-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/partials/footer-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/o-nas.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/o-nas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/theme/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/theme/_navbar.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+            <state relative-caret-position="542">
+              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -71,14 +70,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="316" column="17" selection-start-line="316" selection-start-column="17" selection-end-line="316" selection-end-column="17" />
+            <state relative-caret-position="310">
+              <caret line="102" column="82" selection-start-line="102" selection-start-column="68" selection-end-line="102" selection-end-column="82" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -109,8 +107,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scss/theme/_navbar.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="686">
+            <state relative-caret-position="6119">
               <caret line="211" column="22" selection-start-line="211" selection-start-column="22" selection-end-line="211" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/html/o-nas.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,19 +134,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>border-m</find>
-      <find>footer</find>
-      <find>classList</find>
-      <find>Neo</find>
-      <find>Neobmedzené</find>
-      <find>Vykr</find>
-      <find>klikniti</find>
-      <find>kliknite</find>
-      <find>Ele</find>
-      <find>&amp;quot;</find>
-      <find>'</find>
-      <find>#card-gallery</find>
-      <find>gallery</find>
       <find>founders</find>
       <find>investors</find>
       <find>5.jpg</find>
@@ -149,6 +151,19 @@
       <find>20</find>
       <find>20&quot;</find>
       <find>Vyberte</find>
+      <find>u váš</find>
+      <find>portfólio</find>
+      <find>Pot</find>
+      <find>Pre</find>
+      <find>Vyka</find>
+      <find>karta</find>
+      <find>vyše</find>
+      <find>Vá</find>
+      <find>A</find>
+      <find>Naši</find>
+      <find>proven</find>
+      <find>provencals</find>
+      <find>provens</find>
     </findStrings>
     <replaceStrings>
       <replace>assets/img/skrine/1.jpg</replace>
@@ -161,6 +176,7 @@
       <dir>C:\nocreativity\beritrend_wardropes\dist\assets\fonts</dir>
       <dir>C:\nocreativity\beritrend_wardropes\src\scss</dir>
       <dir>C:\nocreativity\beritrend_wardropes</dir>
+      <dir>C:\nocreativity\beritrend_wardropes\src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -177,11 +193,11 @@
         <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/src/scss/theme/_grid.scss" />
         <option value="$PROJECT_DIR$/src/html/kontakt.html" />
-        <option value="$PROJECT_DIR$/src/html/o-nas.html" />
         <option value="$PROJECT_DIR$/src/scss/theme/_variables.scss" />
-        <option value="$PROJECT_DIR$/src/html/index.html" />
         <option value="$PROJECT_DIR$/src/html/partials/footer-3.html" />
         <option value="$PROJECT_DIR$/src/scss/theme/_navbar.scss" />
+        <option value="$PROJECT_DIR$/src/html/o-nas.html" />
+        <option value="$PROJECT_DIR$/src/html/index.html" />
         <option value="$PROJECT_DIR$/src/html/portfolio.html" />
       </list>
     </option>
@@ -206,32 +222,6 @@
             <path>
               <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
               <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="beritrend_wardropes" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="skrine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="beritrend_wardropes" type="b2602c69:ProjectViewProjectNode" />
@@ -370,18 +360,19 @@
       <workItem from="1610202389789" duration="2685000" />
       <workItem from="1610282386272" duration="10699000" />
       <workItem from="1610350097740" duration="522000" />
-      <workItem from="1610384240746" duration="1154000" />
+      <workItem from="1610384240746" duration="2128000" />
+      <workItem from="1610467514948" duration="646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41016000" />
+    <option name="totallyTimeSpent" value="42636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-4" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.2016" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1552" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Web" order="2" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Image Layers" order="3" />
@@ -411,7 +402,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24946696" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Debug" order="9" weight="0.547651" />
-      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.28746668" />
+      <window_info anchor="right" id="Run" order="10" weight="0.28746668" />
       <window_info anchor="right" id="Maven" order="11" weight="0.32746667" />
       <window_info anchor="right" id="SciView" order="12" weight="0.3296" />
     </layout>
@@ -551,21 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/o-nas.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="64" column="127" selection-start-line="64" selection-start-column="127" selection-end-line="64" selection-end-column="127" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/assets/img/skrine/15.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -594,24 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="316" column="17" selection-start-line="316" selection-start-column="17" selection-end-line="316" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/partials/footer-3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -621,15 +579,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/theme/_navbar.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="686">
+        <state relative-caret-position="6119">
           <caret line="211" column="22" selection-start-line="211" selection-start-column="22" selection-end-line="211" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/o-nas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="102" column="82" selection-start-line="102" selection-start-column="68" selection-end-line="102" selection-end-column="82" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+        <state relative-caret-position="542">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
         </state>
       </provider>
     </entry>
