@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2dbbff69-9f40-4cd9-8fd7-172ad530389f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/o-nas.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/o-nas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/partials/footer-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/partials/footer-3.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="252">
+              <caret line="88" column="61" lean-forward="true" selection-start-line="88" selection-start-column="61" selection-end-line="88" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -95,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/partials/footer-3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="425">
+              <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -117,7 +114,7 @@
         <entry file="file://$PROJECT_DIR$/src/html/o-nas.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="484">
-              <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+              <caret line="179" column="16" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -194,11 +191,11 @@
         <option value="$PROJECT_DIR$/src/scss/theme/_grid.scss" />
         <option value="$PROJECT_DIR$/src/html/kontakt.html" />
         <option value="$PROJECT_DIR$/src/scss/theme/_variables.scss" />
-        <option value="$PROJECT_DIR$/src/html/partials/footer-3.html" />
         <option value="$PROJECT_DIR$/src/scss/theme/_navbar.scss" />
         <option value="$PROJECT_DIR$/src/html/o-nas.html" />
         <option value="$PROJECT_DIR$/src/html/index.html" />
         <option value="$PROJECT_DIR$/src/html/portfolio.html" />
+        <option value="$PROJECT_DIR$/src/html/partials/footer-3.html" />
       </list>
     </option>
   </component>
@@ -361,18 +358,18 @@
       <workItem from="1610282386272" duration="10699000" />
       <workItem from="1610350097740" duration="522000" />
       <workItem from="1610384240746" duration="2128000" />
-      <workItem from="1610467514948" duration="646000" />
+      <workItem from="1610467514948" duration="1399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42636000" />
+    <option name="totallyTimeSpent" value="43389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-4" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1552" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1552" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Web" order="2" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Image Layers" order="3" />
@@ -402,7 +399,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24946696" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Debug" order="9" weight="0.547651" />
-      <window_info anchor="right" id="Run" order="10" weight="0.28746668" />
+      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.28746668" />
       <window_info anchor="right" id="Maven" order="11" weight="0.32746667" />
       <window_info anchor="right" id="SciView" order="12" weight="0.3296" />
     </layout>
@@ -570,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/partials/footer-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/theme/_navbar.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6119">
@@ -587,7 +577,7 @@
     <entry file="file://$PROJECT_DIR$/src/html/o-nas.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+          <caret line="179" column="16" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -618,8 +608,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="252">
+          <caret line="88" column="61" lean-forward="true" selection-start-line="88" selection-start-column="61" selection-end-line="88" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/partials/footer-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
         </state>
       </provider>
     </entry>
