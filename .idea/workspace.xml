@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbbff69-9f40-4cd9-8fd7-172ad530389f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/o-nas.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/o-nas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/partials/footer-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/partials/footer-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/partials/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/portfolio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/partials/footer-3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="261">
+              <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -145,8 +139,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/kontakt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="110" column="22" lean-forward="true" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
+            <state relative-caret-position="435">
+              <caret line="143" column="41" lean-forward="true" selection-start-line="143" selection-start-column="41" selection-end-line="143" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -387,18 +381,18 @@
       <workItem from="1610384240746" duration="2128000" />
       <workItem from="1610467514948" duration="2788000" />
       <workItem from="1610520288655" duration="92000" />
-      <workItem from="1610549719038" duration="889000" />
+      <workItem from="1610549719038" duration="1536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45759000" />
+    <option name="totallyTimeSpent" value="46406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-4" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.1584" />
       <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Web" order="2" sideWeight="0.50141644" side_tool="true" weight="0.22348994" />
       <window_info id="Image Layers" order="3" />
@@ -638,8 +632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/kontakt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="110" column="22" lean-forward="true" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
+        <state relative-caret-position="435">
+          <caret line="143" column="41" lean-forward="true" selection-start-line="143" selection-start-column="41" selection-end-line="143" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -648,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/partials/footer-3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="261">
+          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
         </state>
       </provider>
     </entry>

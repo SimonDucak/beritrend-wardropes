@@ -31,7 +31,7 @@
       <div class="col-12 col-md-auto text-center text-md-left">
 
         <!-- Social -->
-        <ul class="list-inline list-unstyled text-gray-600 mb-0">
+        <ul class="list-inline list-unstyled text-gray-600 mb-0">k
           <li class="list-inline-item">
             <a class="icon icon-sm text-reset" href="https://www.instagram.com/michal_ducak_beritrend/" target="_blank">
               @@include("@@webRoot/icons/social-icons/instagram.svg")
@@ -49,24 +49,28 @@
   </div>
 </footer>
 
-<div class="fb-customerchat"
-     page_id="157624021065088">
-</div>
-
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
     FB.init({
-      appId            : '912333495590130',
-      autoLogAppEvents : true,
       xfbml            : true,
-      version          : 'v2.11'
+      version          : 'v9.0'
     });
   };
-  (function(d, s, id){
+
+  (function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) {return;}
+    if (d.getElementById(id)) return;
     js = d.createElement(s); js.id = id;
-    js.src = "https://connect.facebook.net/en_US/sdk.js";
+    js.src = 'https://connect.facebook.net/sk_SK/sdk/xfbml.customerchat.js';
     fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-</script>
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your Chat Plugin code -->
+<div class="fb-customerchat"
+     attribution=setup_tool
+     page_id="157624021065088"
+     logged_in_greeting="Dobrý deň, môžeme Vám nejako pomôcť alebo poradiť?"
+     logged_out_greeting="Dobrý deň, môžeme Vám nejako pomôcť alebo poradiť?">
+</div>
