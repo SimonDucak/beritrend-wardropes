@@ -74,3 +74,46 @@
      logged_in_greeting="Dobrý deň, môžeme Vám nejako pomôcť alebo poradiť?"
      logged_out_greeting="Dobrý deň, môžeme Vám nejako pomôcť alebo poradiť?">
 </div>
+
+<div id="cookie" class="alert alert-warning" role="alert" style="display: none">
+    <p>
+        Používam cookies aby som sa čo najlepšie prispôsobil Vašim potrebám.
+        Ak budete pokračovať v používaní tejto stránky zároveň tým súhlasíte s používaním cookies.
+    </p>
+    <button type="button" class="btn btn-light btn-sm">Súhlasím</button>
+</div>
+
+<script>
+  function setCookie(name,value,days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days*24*60*60*1000));
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+  }
+  function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1,c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+  }
+  function eraseCookie(name) {
+    document.cookie = name +'=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+  }
+
+  var cookie = getCookie('cookie');
+  var cookieEl = document.getElementById('cookie');
+  if (!cookie) {
+    cookieEl.style.display = 'block';
+  }
+  cookieEl.addEventListener('click', function() {
+    setCookie('cookie', 'true', 365);
+    cookieEl.style.display = 'none';
+  });
+</script>
